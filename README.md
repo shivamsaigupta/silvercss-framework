@@ -5,6 +5,16 @@ SilverCSS is a no-BS simplistic 12-grid CSS framework. It is built with flexbox 
 
 [Example](https://shivamsaigupta.github.io/silvercss-framework/example/)
 
+## Integration
+SilverCSS is not hosted on a CDN as of now. You will have to download `framework.css` and then link it to your HTML.
+    
+    <head>
+    ...
+    <link rel="stylesheet" href="../framework.css" />
+    </head>
+
+If you want to extend SilverCSS, we encourage you to download `framework.scss`. It will be easier for you to edit the Sass file.
+
 ## Container
 
 Create div with class `container` to utilize our container component. The container is a 960px wide container meant to be the holder for all your elements.
