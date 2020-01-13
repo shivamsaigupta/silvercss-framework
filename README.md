@@ -51,6 +51,8 @@ The SilverCSS framework also provides a `navbar` class that can be used to easil
         <div class="nav-item"><a href="#" class="nav-link">Contact</a></div>
       </nav>
 
-##Contributors
+## Contributors
+
 @shivamsaigupta
+
 Contribution encouraged!
