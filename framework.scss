@@ -179,13 +179,13 @@ body {
 
 .col {
   flex: 1;
-  margin: 0 20px;
+  margin: 0 10px;
 }
 
 @for $i from 2 through 12 {
   .col-#{$i} {
     flex: $i;
-    margin: 0 20px;
+    margin: 0 10px;
   }
 }
 
