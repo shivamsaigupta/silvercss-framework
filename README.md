@@ -1,5 +1,9 @@
 
-# SilverCSS - CSS Grid Framework
+<p align="center">
+  <img align="center" src="https://shivamsaigupta.com/images/silvercss.png" width="290"/>
+</p>
+
+<hr>
 
 SilverCSS is a no-BS simplistic 12-grid CSS framework. It is built with flexbox and its functionality can be extended. Each column is 60px wide with 20px gutters.
 
